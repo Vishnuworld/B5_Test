@@ -4,6 +4,7 @@ from django.db import models
 from django.contrib.auth.models import User
 from django.utils.text import Truncator
 
+# added a comment in f1 branch
 
 class Board(models.Model):
     name = models.CharField(max_length=30, unique=True)
