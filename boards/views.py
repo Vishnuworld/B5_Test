@@ -127,3 +127,10 @@ class NewPostView(CreateView):
  
 def func():
     pass
+
+
+
+def  test():
+    for i in range(11):
+        print(i)
+        
