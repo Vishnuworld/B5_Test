@@ -129,8 +129,15 @@ def func():
     pass
 
 
+def test1():
+    pass
 
 def  test():
-    for i in range(11):
+    """for testing purpose"""
+    for i in range(12):
         print(i)
+
+
+def test2():
+    print("in test2")
         
