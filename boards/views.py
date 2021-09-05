@@ -134,8 +134,8 @@ def test1():
 
 def  test():
     """for testing purpose"""
-    for i in range(12):
-        print(i)
+    for i in range(100):
+        print(i * i)
 
 
 def test2():
