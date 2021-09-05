@@ -56,4 +56,3 @@ urlpatterns = [
 # http://127.0.0.1:8000/admin/
 # http://127.0.0.1:8000/boards/3/
 # http://127.0.0.1:8000/boards/pk(int)/new/ -- 
-# http://127.0.0.1:8000/boards/1/topics/2/ -- 

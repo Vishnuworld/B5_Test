@@ -122,3 +122,8 @@ class NewPostView(CreateView):
             post.created_by = request.user
             post.save()
             return redirect('topic_posts', pk=kwargs["pk"], topic_pk=kwargs["topic_pk"])
+
+
+ 
+def func():
+    pass
