@@ -71,4 +71,4 @@ class MasterModel(models.Model):
 		# renames the instances of the model
 		# with their title name
 	def __str__(self):
-		return self.title
+		return self.description
